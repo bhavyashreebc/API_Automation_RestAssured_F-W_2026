@@ -1,0 +1,17 @@
+# Build & output directories
+/target/
+/reports/
+/test-output/
+
+# Eclipse IDE config
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ IDE config
+/.idea/
+*.iml
+
+# Logs & compiled classes
+*.class
+*.log
